@@ -38,7 +38,7 @@ flutter run
 ## Video Capture
 
 ## License
-This project is licensed under the [Apache-2.0 License](https://github.com/dhikaz007/simple_simple_device_info_app/blob/master/LICENSE.md).
+This project is licensed under the [Apache-2.0 License](https://github.com/dhikaz007/simple_device_info_app/blob/master/LICENSE).
 
 ## Author
 This Flutter project is developed by [Andhika Pangestu P](https://github.com/dhikaz007)
